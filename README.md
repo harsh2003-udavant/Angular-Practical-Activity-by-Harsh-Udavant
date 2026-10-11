@@ -2,26 +2,30 @@
 
 ### Alandi (D), Pune - 412 105
 
-**School of Computer Science & Applications**
+**School of Computer Science & Applications**  
 **Department of Science and Computer Science**
 
-## Full Stack Development - III
+---
 
-**Academic Year:** 2026–27
-**Class:** S.Y. M.Sc. (Computer Science)
-**Roll Number:** SM1102
+# Full Stack Development - III
+
+**Academic Year:** 2026–27  
+**Class:** S.Y. M.Sc. (Computer Science)  
+**Semester:** Semester III  
+**Roll Number:** SM1123
 
 ---
 
 ## 👨‍🎓 Student Details
 
-| Field            | Details                           |
-| ---------------- | --------------------------------- |
-| **Student Name** | **Mayur Pawar**                   |
-| **Class**        | **S.Y. M.Sc. (Computer Science)** |
-| **Semester**     | **Semester III**                  |
-| **Roll Number**  | **SM1102**                        |
-| **Subject**      | **Full Stack Development - III**  |
+| Field | Details |
+|---|---|
+| **Student Name** | **Harsh Vijay Udavant** |
+| **Class** | **S.Y. M.Sc. (Computer Science)** |
+| **Semester** | **Semester III** |
+| **Roll Number** | **SM1123** |
+| **Subject** | **Full Stack Development - III** |
+| **Academic Year** | **2026–27** |
 
 ---
 
@@ -31,33 +35,33 @@ This repository contains practical programs completed as part of the **Full Stac
 
 The repository includes practicals based on:
 
-* 🅰️ **Angular**
-* ⚛️ **React**
-* TypeScript
-* JavaScript
-* HTML
-* CSS
+- 🅰️ **Angular**
+- ⚛️ **React**
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
-The practical programs demonstrate important concepts of modern frontend development, including data binding, components, routing, state management, hooks, forms, and interactive user interfaces.
+These practical programs demonstrate important concepts of modern frontend development, including data binding, components, routing, state management, hooks, forms, and interactive user interfaces.
 
 ---
 
 # 📑 Practical Index
 
-| Sr. No. | Technology | Practical    | Topic                                 | Status      |
-| ------: | ---------- | ------------ | ------------------------------------- | ----------- |
-|       1 | Angular    | Practical-01 | String Interpolation                  | ✅ Completed |
-|       2 | Angular    | Practical-02 | Student List using Array              | ✅ Completed |
-|       3 | Angular    | Practical-03 | Time Table using One-Way Data Binding | ✅ Completed |
-|       4 | Angular    | Practical-04 | Student Portfolio                     | ✅ Completed |
-|       5 | Angular    | Practical-05 | Two-Way Data Binding                  | ✅ Completed |
-|       6 | Angular    | Practical-06 | Simple Routing                        | ✅ Completed |
-|       7 | Angular    | Practical-07 | Route Parameters                      | ✅ Completed |
-|       8 | React      | Practical-08 | Hello World React Application         | ✅ Completed |
-|       9 | React      | Practical-09 | Counter Application                   | ✅ Completed |
-|      10 | React      | Practical-10 | To-Do List                            | ✅ Completed |
-|      11 | React      | Practical-11 | Calculator                            | ✅ Completed |
-|      12 | React      | Practical-12 | Digital Clock                         | ✅ Completed |
+| Sr. No. | Technology | Practical | Topic | Status |
+|---:|---|---|---|---|
+| 1 | Angular | Practical-01 | String Interpolation | Completed |
+| 2 | Angular | Practical-02 | Student List Using Array | Completed |
+| 3 | Angular | Practical-03 | Time Table Using One-Way Data Binding | Completed |
+| 4 | Angular | Practical-04 | Student Portfolio | Completed |
+| 5 | Angular | Practical-05 | Two-Way Data Binding | Completed |
+| 6 | Angular | Practical-06 | Simple Routing | Completed |
+| 7 | Angular | Practical-07 | Route Parameters | Completed |
+| 8 | React | Practical-08 | Hello World React Application | Completed |
+| 9 | React | Practical-09 | Counter Application | Completed |
+| 10 | React | Practical-10 | To-Do List | Completed |
+| 11 | React | Practical-11 | Calculator | Completed |
+| 12 | React | Practical-12 | Digital Clock | Completed |
 
 ---
 
@@ -65,111 +69,103 @@ The practical programs demonstrate important concepts of modern frontend develop
 
 ## Practical-01 — String Interpolation
 
-**Objective:**
+**Objective:**  
 To create an Angular application demonstrating string interpolation.
 
 **Concepts Used:**
-
-* Angular Components
-* String interpolation `{{ }}`
-* Component properties
-* Template binding
+- Angular components
+- String interpolation `{{ }}`
+- Component properties
+- Template binding
 
 ---
 
 ## Practical-02 — Student List Using Array
 
-**Objective:**
+**Objective:**  
 To display a list of 10 student names using an array.
 
 **Concepts Used:**
-
-* Arrays
-* `*ngFor`
-* Angular components
-* Template rendering
+- Arrays
+- `*ngFor`
+- Angular components
+- Template rendering
 
 ---
 
 ## Practical-03 — Time Table Using One-Way Data Binding
 
-**Objective:**
+**Objective:**  
 To create an Angular application displaying a timetable using one-way data binding.
 
 **Concepts Used:**
-
-* One-way data binding
-* Component properties
-* HTML tables
-* Angular templates
+- One-way data binding
+- Component properties
+- HTML tables
+- Angular templates
 
 ---
 
 ## Practical-04 — Student Portfolio
 
-**Objective:**
+**Objective:**  
 To create a student portfolio application using Angular.
 
 **Concepts Used:**
+- Components
+- Data binding
+- HTML
+- CSS
+- Portfolio design
 
-* Components
-* Data binding
-* HTML
-* CSS
-* Portfolio design
-
-The portfolio includes sections such as:
-
-* About
-* Education
-* Skills
-* Projects
-* Contact
+**Portfolio Sections:**
+- About
+- Education
+- Skills
+- Projects
+- Contact
 
 ---
 
 ## Practical-05 — Two-Way Data Binding
 
-**Objective:**
+**Objective:**  
 To demonstrate two-way data binding in Angular.
 
 **Concepts Used:**
-
-* `FormsModule`
-* `[(ngModel)]`
-* Input fields
-* Real-time data synchronization
+- `FormsModule`
+- `[(ngModel)]`
+- Input fields
+- Real-time data synchronization
 
 ---
 
 ## Practical-06 — Simple Routing
 
-**Objective:**
+**Objective:**  
 To create an Angular application demonstrating simple routing.
 
 **Concepts Used:**
-
-* Angular Router
-* Routes
-* `routerLink`
-* `router-outlet`
-* Navigation
+- Angular Router
+- Routes
+- `routerLink`
+- `router-outlet`
+- Navigation
 
 ---
 
 ## Practical-07 — Route Parameters
 
-**Objective:**
+**Objective:**  
 To demonstrate route parameters and retrieve data from the URL.
 
 **Concepts Used:**
+- Parameterized routes
+- `ActivatedRoute`
+- Route parameters
+- URL navigation
 
-* Parameterized routes
-* `ActivatedRoute`
-* Route parameters
-* URL navigation
-
-Example:
+**Example URLs:**
 
 ```text
 /user/101
@@ -182,157 +178,148 @@ Example:
 
 ## Practical-08 — Hello World React Application
 
-**Objective:**
+**Objective:**  
 To create a basic Hello World application using React.
 
 **Concepts Used:**
-
-* React components
-* JSX
-* Functional components
-* Event handling
+- React components
+- JSX
+- Functional components
+- Event handling
 
 ---
 
 ## Practical-09 — Counter Application
 
-**Objective:**
+**Objective:**  
 To create a counter application using React.
 
 **Features:**
-
-* Increment
-* Decrement
-* Reset
+- Increment
+- Decrement
+- Reset
 
 **Concepts Used:**
-
-* `useState`
-* State management
-* Event handling
+- `useState`
+- State management
+- Event handling
 
 ---
 
 ## Practical-10 — To-Do List
 
-**Objective:**
+**Objective:**  
 To create a To-Do List application using React.
 
 **Features:**
-
-* Add task
-* Edit task
-* Complete task
-* Delete task
+- Add tasks
+- Edit tasks
+- Complete tasks
+- Delete tasks
 
 **Concepts Used:**
-
-* `useState`
-* Arrays
-* `map()`
-* `filter()`
-* Event handling
+- `useState`
+- Arrays
+- `map()`
+- `filter()`
+- Event handling
 
 ---
 
 ## Practical-11 — Calculator
 
-**Objective:**
+**Objective:**  
 To create a calculator application using React.
 
 **Operations:**
-
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Percentage
-* Clear
-* Delete
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Percentage
+- Clear
+- Delete
 
 **Concepts Used:**
-
-* React components
-* JSX
-* State management
-* Event handling
+- React components
+- JSX
+- State management
+- Event handling
 
 ---
 
 ## Practical-12 — Digital Clock
 
-**Objective:**
+**Objective:**  
 To create a digital clock that displays the current time and date.
 
 **Features:**
-
-* Live hours
-* Minutes
-* Seconds
-* Current date
-* 12-hour / 24-hour format
+- Live hours
+- Minutes
+- Seconds
+- Current date
+- 12-hour / 24-hour format
 
 **Concepts Used:**
-
-* `useState`
-* `useEffect`
-* `setInterval()`
-* `clearInterval()`
+- `useState`
+- `useEffect`
+- `setInterval()`
+- `clearInterval()`
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Angular-Practicals/
+Angular-Practicals-MSc-CS/
 │
-├── Angular/
-│   ├── Practical-01/
-│   ├── Practical-02/
-│   ├── Practical-03/
-│   ├── Practical-04/
-│   ├── Practical-05/
-│   ├── Practical-06/
-│   └── Practical-07/
+├── README.md
 │
-├── React/
-│   ├── Practical-08/
-│   ├── Practical-09/
-│   ├── Practical-10/
-│   ├── Practical-11/
-│   └── Practical-12/  
+├── Practical_01
+├── Practical_02
+├── Practical_03
+├── Practical_04
+├── Practical_05
+├── Practical_06
+├── Practical_07
+├── Practical_08
+├── Practical_09
 │
-└── README.md
+└── React/
+    ├── Practical-08/
+    ├── Practical-09/
+    ├── Practical-10/
+    ├── Practical-11/
+    └── Practical-12/
 ```
+
+*Note: Adjust this structure to match the actual files and folders in your repository.*
 
 ---
 
 # 🛠️ Technologies Used
 
 ### Angular
-
-* Angular
-* TypeScript
-* HTML5
-* CSS3
-* Angular Router
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Angular Router
 
 ### React
-
-* React
-* JavaScript
-* JSX
-* HTML5
-* CSS3
-* React Hooks
+- React
+- JavaScript
+- JSX
+- HTML5
+- CSS3
+- React Hooks
 
 ### Development Tools
-
-* Visual Studio Code
-* Node.js
-* npm
-* Git
-* GitHub
+- Visual Studio Code
+- Node.js
+- npm
+- Git
+- GitHub
 
 ---
 
@@ -342,7 +329,7 @@ Angular-Practicals/
 
 Make sure Node.js and npm are installed.
 
-Check:
+Check the versions:
 
 ```bash
 node --version
@@ -355,16 +342,14 @@ npm --version
 npm install -g @angular/cli
 ```
 
-### 3. Create an Angular project
+### 3. Open the Angular project directory
+
+Navigate to the folder containing the Angular project's `package.json` file.
+
+### 4. Install dependencies
 
 ```bash
-ng new angular-practical
-```
-
-### 4. Enter the project
-
-```bash
-cd angular-practical
+npm install
 ```
 
 ### 5. Start the development server
@@ -373,89 +358,76 @@ cd angular-practical
 ng serve
 ```
 
-Open:
+Open `http://localhost:4200/` in your browser.
 
-```text
-http://localhost:4200/
-```
+*Note: These commands assume that the practical contains a complete Angular project.*
 
 ---
 
 # ⚛️ How to Run React Practicals
 
-### 1. Create a React project using Vite
+### 1. Open the React project directory
 
-```bash
-npm create vite@latest react-practical -- --template react
-```
+Navigate to the folder containing the React project's `package.json` file.
 
-### 2. Enter the project
-
-```bash
-cd react-practical
-```
-
-### 3. Install dependencies
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Start the development server
+### 3. Start the development server
 
 ```bash
 npm run dev
 ```
 
-Open the URL displayed in the terminal, usually:
+Open the URL displayed in the terminal, usually `http://localhost:5173/`.
 
-```text
-http://localhost:5173/
-```
+*Note: These commands assume that the practical is a Vite-based React project.*
 
 ---
 
 # 📚 Learning Outcomes
 
-Through these practicals, I learned:
+Through these practicals, I aim to develop practical knowledge of:
 
-* Angular component development
-* String interpolation
-* One-way data binding
-* Two-way data binding
-* Angular routing
-* Route parameters
-* React functional components
-* JSX
-* React state management
-* `useState`
-* `useEffect`
-* Event handling
-* CRUD operations
-* Frontend application development
-* Git and GitHub version control
+- Angular component development
+- String interpolation
+- One-way and two-way data binding
+- Angular routing and route parameters
+- React functional components
+- JSX
+- React state management
+- `useState` and `useEffect`
+- Event handling
+- Frontend application development
+- Git and GitHub version control
 
 ---
 
 # 🔗 Repository
 
-**GitHub Repository:**
-https://github.com/mayur-2010/Angular-Practicals
+**GitHub Repository:**  
+`https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME`
+
+Replace the placeholder URL with the actual link to my GitHub repository.
 
 ---
 
 ## 👨‍💻 Student
 
-**Mayur Pawar**
-**S.Y. M.Sc. Computer Science**
-**Roll No.: SM1102**
+**Harsh Vijay Udavant**  
+**S.Y. M.Sc. Computer Science**  
+**Semester III**  
+**Roll No.: SM1123**
 
 ---
 
 ### ⭐ Acknowledgement
 
-This repository contains the practical work completed as part of the **Full Stack Development - III** laboratory course at **MAEER's MIT Arts, Commerce & Science College, Alandi, Pune**.
+This repository documents practical work for the **Full Stack Development - III** laboratory course at **MAEER's MIT Arts, Commerce & Science College, Alandi, Pune**.
 
 ---
 
-**© 2026 Mayur Pawar — Full Stack Development - III**
+**© 2026 Harsh Vijay Udavant — Full Stack Development - III**
